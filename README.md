@@ -18,6 +18,7 @@
 ## 序
 騰訊的離線敏感詞庫。
 
+[轻量超严格敏感词库](https://github.com/cjh0613/strict-sensitive-word)
 
 ## [資](https://sponsor.cjh0613.com/)
 
