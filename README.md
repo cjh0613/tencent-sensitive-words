@@ -39,3 +39,5 @@ E8014 從元氣騎士的安裝檔中選取出來並分享。
 </a>
 
 ### 其他
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
