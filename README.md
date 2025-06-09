@@ -1,4 +1,7 @@
 <h2 align="center">tencent-sensitive-words</h2>
+
+其他推荐： <a href="https://ip.cjh0613.com/" target="_blank" rel="noopener noreferrer">查询本机访问不同网站的公网 IP</a> ，可以检测代理分流配置，避免被 AI 工具封号。可以查看用户访问 中国网站，国际知名 AI 网站，被封的国际网站，其他国际网站 所使用的 IP
+
 <p align="center">
 語言: <a href="https://github.com/cjh0613/tencent-sensitive-words/blob/master/README.md" target="_blank" rel="noopener noreferrer">文言</a>
   | <a href="https://github.com/cjh0613/tencent-sensitive-words/blob/master/README_en.md" target="_blank" rel="noopener noreferrer">English</a>
