@@ -37,7 +37,3 @@ E8014 從元氣騎士的安裝檔中選取出來並分享。
 <a href="https://github.com/cjh0613/tencent-sensitive-words/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=cjh0613/tencent-sensitive-words" />
 </a>
-
-### 其他
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
